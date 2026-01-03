@@ -27,8 +27,8 @@ export function Footer() {
           </div>
         </div>
         <div className="mt-8 pt-8 border-t border-white/20 text-center text-sm text-white/60">
-          <p>&copy; {new Date().getFullYear()} BurnTheShips. All rights reserved.</p>
-          <p className="mt-1">A Division of Bold Ventures LLC</p>
+          <p>&copy; {new Date().getFullYear()} BurnTheShips. All rights reserved. | <Link href="/privacy" className="underline hover:text-white">Privacy Policy</Link> | <Link href="/legal" className="underline hover:text-white">Legal Notice</Link></p>
+          <p className="mt-2">Portfolio-Project (Mockup)</p>
         </div>
       </div>
     </footer>

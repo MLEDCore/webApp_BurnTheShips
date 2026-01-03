@@ -48,21 +48,21 @@
       "id": 1,
       "name": "Hernan Cortes",
       "title": "Explorer",
-      "quote": "It changed my life, the rest is history",
+      "quote": "Outnumbered, I knew we had to fully commit. The rest is history",
       "avatarId": "testimonial-avatar-1"
     },
     {
       "id": 2,
-      "name": "Samantha Lee",
+      "name": "Ficticious Lee",
       "title": "CEO, Creative Solutions",
       "quote": "I was stuck between two business models for years. The process forced a decision and provided the framework to move forward with confidence. Best decision I've ever made for my company.",
       "avatarId": "testimonial-avatar-2"
     },
     {
       "id": 3,
-      "name": "Michael Chen",
+      "name": "John Doe",
       "title": "Artist & Entrepreneur",
-      "quote": "As a creative, I had a dozen projects and no focus. Uncharted Path helped me commit to one, and it has made all the difference. The support system is invaluable.",
+      "quote": "As a creative, I had a dozen projects and no focus. BurnTheShips helped me commit to one, without distraction. Their support system is invaluable.",
       "avatarId": "testimonial-avatar-3"
     }
   ]

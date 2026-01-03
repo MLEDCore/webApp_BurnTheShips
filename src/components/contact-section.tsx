@@ -169,10 +169,10 @@ export function ContactSection() {
                   name="commitment"
                   render={({ field }) => (
                     <FormItem>
-                      <FormLabel className="text-lg">Please define your Smart commitment as clear as you can.</FormLabel>
+                      <FormLabel className="text-lg">Please define your smart Goal as clear as you can.</FormLabel>
                       <FormControl>
                         <Textarea
-                          placeholder="e.g., I will learn to code by building one new project every month."
+                          placeholder="e.g., I will learn to code by building one new project every month of 2026."
                           rows={5}
                           {...field}
                           className="text-base"

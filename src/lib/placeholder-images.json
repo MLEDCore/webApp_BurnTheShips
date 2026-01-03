@@ -1,0 +1,69 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "A dramatic image of a shipwreck on a beach at sunrise.",
+      "imageUrl": "https://images.unsplash.com/photo-1494493648617-3edda2de6c0f?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageHint": "shipwreck sunrise"
+    },
+    {
+      "id": "service-compass",
+      "description": "A viking ship on fire.",
+      "imageUrl": "https://images.unsplash.com/photo-1638548719870-489f78ba0b3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx2aWtpbmclMjBzaGlwJTIwZmlyZXxlbnwwfHx8fDE3NjcxODYzMzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "viking ship fire"
+    },
+    {
+      "id": "service-map",
+      "description": "A close-up of a ship engulfed in flames.",
+      "imageUrl": "https://images.unsplash.com/photo-1605378804535-b4333b09dc8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzaGlwJTIwZmxhbWVzfGVufDB8fHx8MTc2NzE4NjMzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ship flames"
+    },
+    {
+      "id": "service-anchor",
+      "description": "A fleet of ships burning at night.",
+      "imageUrl": "https://images.unsplash.com/photo-1733049163811-2c4a751d61cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmbGVldCUyMGJ1cm5pbmd8ZW58MHx8fHwxNzY3MTg2MzM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fleet burning"
+    },
+    {
+      "id": "testimonial-avatar-1",
+      "description": "Avatar for a testimonial.",
+      "imageUrl": "https://images.unsplash.com/photo-1665272134599-52557419cd74?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTR8fGhpc3RvcmlzY2hlJTIwcGVyc29uJTIwaGVybmFuJTIwY29ydGVzfGVufDB8fDB8fHww",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "testimonial-avatar-2",
+      "description": "Avatar for a testimonial.",
+      "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjcwOTgxMzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "testimonial-avatar-3",
+      "description": "Avatar for a testimonial.",
+      "imageUrl": "https://images.unsplash.com/photo-1600180758890-6b94519a8ba6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjcwOTgxMzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Hernan Cortes",
+      "title": "Explorer",
+      "quote": "It changed my life, the rest is history",
+      "avatarId": "testimonial-avatar-1"
+    },
+    {
+      "id": 2,
+      "name": "Samantha Lee",
+      "title": "CEO, Creative Solutions",
+      "quote": "I was stuck between two business models for years. The process forced a decision and provided the framework to move forward with confidence. Best decision I've ever made for my company.",
+      "avatarId": "testimonial-avatar-2"
+    },
+    {
+      "id": 3,
+      "name": "Michael Chen",
+      "title": "Artist & Entrepreneur",
+      "quote": "As a creative, I had a dozen projects and no focus. Uncharted Path helped me commit to one, and it has made all the difference. The support system is invaluable.",
+      "avatarId": "testimonial-avatar-3"
+    }
+  ]
+}

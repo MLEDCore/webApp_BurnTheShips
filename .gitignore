@@ -1,0 +1,23 @@
+# Node dependencies
+node_modules/
+
+# Next.js build
+.next/
+out/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Firebase Studio temporary files
+.firebase/
+
+.DS_Store
+.vscode/
